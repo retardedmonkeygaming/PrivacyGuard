@@ -1,0 +1,18 @@
+# Build artifacts
+bin/
+obj/
+Debug/
+Release/
+x64/
+*.pdb
+*.user
+*.suo
+*.VC.db
+
+# Logs (keep desktop logs but ignore project logs)
+!privacy_guard_log.txt
+
+# Visual Studio
+.vs/
+*.sln
+*.csproj.user
